@@ -4,7 +4,7 @@ import CommentsCard from "@/components/comments";
 export default function Article() {
   return (
     <>
-      <div className="relative mb-10 h-[300px] bg-[url('/image.jpg')] bg-cover bg-center bg-no-repeat text-center">
+      <div className="relative mb-5 h-[300px] bg-[url('/image.jpg')] bg-cover bg-center bg-no-repeat text-center">
         <h1 className="absolute bottom-0 left-0 right-0 top-1/2 text-4xl text-white">
           How to be more productive
         </h1>
